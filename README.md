@@ -10,6 +10,6 @@ Download the dnsjava zip from [here](http://www.dnsjava.org/download/dnsjava-2.1
 
 Unzip the file and move MyDig.java into the extracted folder.
 
-Compile the program using `javac MyDig.java`
+Compile the program using `javac MyDig.java` using terminal in the same folder.
 
 Run the command `java MyDig <hostname_to_be_resolved> <type>`
