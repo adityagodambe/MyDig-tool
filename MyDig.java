@@ -1,10 +1,10 @@
 /*
- * @author Aditya Godambe
  * 
  * This program takes as input the host name and query type and resolves its IP address.
  * It emulates the DIG tool up to a certain extent.
  */
 
+/** @author Aditya Godambe */
 //package fcn;
 
 import java.io.IOException;
