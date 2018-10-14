@@ -2,7 +2,7 @@
 Custom written tool that emulates the linux "dig" command
 
 This is custom made "dig" tool written in Java that performs DNS resolution iteratively.
-It uses the dnsjava library to perform top level DNS query resolving followed by iterative DNS resolution based on the returned list of top level domains.
+It uses the dnsjava library to perform top level DNS query resolution followed by iterative DNS resolution based on the returned list of top level domains.
 
 ## Usage:
 
